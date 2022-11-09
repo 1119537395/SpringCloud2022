@@ -3,4 +3,4 @@ config:
   type: com.alibaba.druid.pool.DruidDataSource
   url: jdbc:mysql://localhost:3306/db2020?useUnicode=true&characterEncoding=utf-8&allowPublicKeyRetrieval=true&useSSL=false&serverTimezone=Hongkong
   username: root
-  password: ****
+  password: 123
