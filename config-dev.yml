@@ -1,5 +1,5 @@
 config:
-  info: main branch,springcloud/config-dev.yml version=5
+  info: main branch,springcloud/config-dev.yml version=6
   type: com.alibaba.druid.pool.DruidDataSource
   username: root
   password: 123
